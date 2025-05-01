@@ -1,4 +1,4 @@
-# Flying-Leatherneck-Aviation-Museum
+# Flying Leatherneck Aviation Museum (Curtiss JN-4 Biplane)
 
 I will be collaborating with the Flying Leatherneck Aviation Museum to design and construct a full-scale, from-scratch replica of the Curtiss JN-4 “Jenny” biplane, an iconic World War I-era trainer used extensively by the U.S. Marine Corps. Unlike restoration projects, this effort involves recreating the entire airframe from the ground up using a combination of historical research, modern engineering tools, and traditional fabrication techniques. The goal is to produce a historically accurate yet structurally sound aircraft that can serve as a centerpiece for educational exhibits and public outreach.
 
